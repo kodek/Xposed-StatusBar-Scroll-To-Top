@@ -1,4 +1,4 @@
-package com.mohammadag.statusbarscrolltotop;
+package com.kodekapps.statustap;
 
 import static de.robv.android.xposed.XposedHelpers.findAndHookMethod;
 import static de.robv.android.xposed.XposedHelpers.findClass;
