@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mohammadag.statusbarscrolltotop"
+    package="com.kodekapps.statustap"
     android:versionCode="2"
     android:versionName="1.1" >
 
@@ -20,7 +20,7 @@
             android:value="30+" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Tap status bar to scroll most scrollers to top" />
+            android:value="Tap status bar to send com.kodekapps.statustap.TAP_RECEIVED intent" />
     </application>
 
 </manifest>
